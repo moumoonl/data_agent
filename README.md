@@ -136,3 +136,7 @@ langgraph dev
 2. 使用 `@tool` 装饰器和 Pydantic 模型进行参数验证
 3. 将新工具添加到 `tools` 列表中
 4. 更新提示词模板以包含新工具的使用说明
+
+
+
+<img width="2331" height="1278" alt="test1" src="https://github.com/user-attachments/assets/43562466-dd9a-48cf-83bc-03915a61fb24" />
